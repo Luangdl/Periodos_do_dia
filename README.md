@@ -1,2 +1,2 @@
-# Periodos_do_dia
-Apresenta imagens que representam 3 períodos do dia de acorodo com o horário inserido. 
+# Períodos_do_dia
+Apresenta imagens que representam 3 períodos do dia de acordo com o horário inserido. 
